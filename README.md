@@ -35,4 +35,4 @@ Blast through waves of enemies, dodge incoming fire, and defeat the final boss t
 2. Run:
    ```bash
    python game.py
-TOXICATED010
+ @TOXICATED010
